@@ -1,9 +1,14 @@
 # Welcome 
 
-[This repository](https://github.com/NodeOps-app/beta-deploy) supports our NodeOps Deploy beta testers.
+Welcome to the Deploy beta tester gang. [This repository](https://github.com/NodeOps-app/beta-deploy) supports you and this repo is yours: make changes, add issues, give feedback, but most of all build great stuff!  
 
-## Get Started
+## Quickstart
 
+1. [Build0.NodeOps.Network/projects](https://build0.nodeops.network/projects)
+2. Sign in with email
+3. Click + New Project 
+
+> You have the choice of integrating a GitHub repo or grabbing an existing Docker image.
 
 ## FAQ
 
@@ -17,13 +22,15 @@ Deploy your apps at-a-click from GitHub or Docker.
 
 ### How do I report a bug?
 
-[Open an issue here](https://github.com/NodeOps-app/beta-deploy/issues)
+[Open an issue here](https://github.com/NodeOps-app/beta-deploy/issues), and apply the label bug
 
 ### How do I make a feature request?
 
-
+[Open an issue here](https://github.com/NodeOps-app/beta-deploy/issues), and apply the label enhancement
 
 ### How do I get support?
+
+Chat to the team on Telegram Builders Hub [t.me/+hvag81JD7SEyMjVl](https://t.me/+hvag81JD7SEyMjVl)
 
 ## Disclaimer
 
