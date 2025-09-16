@@ -8,17 +8,13 @@ Welcome to the Deploy beta tester gang. [This repository](https://github.com/Nod
 2. Sign in with email
 3. Click + New Project 
 
-> You have the choice of integrating a GitHub repo or grabbing an existing Docker image.
+> You have the choice of integrating a GitHub repo or importing an existing Docker image.
 
 ## FAQ
 
 ### What is NodeOps Deploy?
 
 Deploy your apps at-a-click from GitHub or Docker. 
-
-### How do I get access?
-
-[Build0.NodeOps.Network/projects](https://build0.nodeops.network/projects)
 
 ### How do I report a bug?
 
