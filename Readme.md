@@ -33,15 +33,52 @@ Deploy your apps at-a-click from GitHub or Docker.
 
 ### How do I report a bug?
 
-[Open an issue here](https://github.com/NodeOps-app/beta-deploy/issues), and apply the label bug
+You have 2 methods available:
+
+1. Help > Contact Support > Complete form.
+
+<details>
+  <summary>Support walkthrough</summary>
+
+[Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
+
+[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/6)
+
+</details>
+
+2. [Open an issue here](https://github.com/NodeOps-app/beta-deploy/issues), and apply the label **bug**.
 
 ### How do I make a feature request?
 
-[Open an issue here](https://github.com/NodeOps-app/beta-deploy/issues), and apply the label enhancement
+You have 2 methods available:
+
+1. Help > Contact Support > Complete form.
+
+<details>
+  <summary>Support walkthrough</summary>
+
+[Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
+
+[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/6)
+
+</details>
+
+2. [Open an issue here](https://github.com/NodeOps-app/beta-deploy/issues), and apply the label **enhancement**.
 
 ### How do I get support?
 
-1. 
+You have 2 methods available:
+
+1. Help > Contact Support > Complete form.
+
+<details>
+  <summary>Support walkthrough</summary>
+
+[Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
+
+[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/6)
+
+</details>
 2. Chat to the team on the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
 
 ## Disclaimer
