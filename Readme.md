@@ -13,10 +13,9 @@ Welcome to the Deploy beta tester gang. [This repository](https://github.com/Nod
 2. Sign in with email
 
 <details>
-  <summary>Show me</summary>
-  [Walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
+  <summary>Walkthrough</summary>
+  [Click for walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
 </details>
-
 
 3. Click + New Project 
 
