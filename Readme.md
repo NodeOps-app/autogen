@@ -11,6 +11,13 @@ Welcome to the Deploy beta tester gang. [This repository](https://github.com/Nod
 
 1. [Build0.NodeOps.Network/projects](https://build0.nodeops.network/projects)
 2. Sign in with email
+
+<details>
+  <summary>Show me</summary>
+  [Walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
+</details>
+
+
 3. Click + New Project 
 
 > You have the choice of integrating a GitHub repo or importing an existing [Docker image](docker-path#image-requirements).
@@ -31,7 +38,8 @@ Deploy your apps at-a-click from GitHub or Docker.
 
 ### How do I get support?
 
-Chat to the team on the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
+1. 
+2. Chat to the team on the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
 
 ## Disclaimer
 
