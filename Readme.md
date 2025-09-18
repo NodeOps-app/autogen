@@ -10,7 +10,17 @@ Welcome to the Deploy beta tester gang. [This repository](https://github.com/Nod
 ## Quickstart
 
 1. [Build0.NodeOps.Network/projects](https://build0.nodeops.network/projects)
-2. Sign in with email
+2. Sign in/sign up with email
+
+<details>
+  <summary>Sign up walkthrough</summary>
+
+[Click for walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
+
+[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issue-3429991454)
+
+</details>
+
 3. Click + New Project 
 
 > You have the choice of integrating a GitHub repo or importing an existing [Docker image](docker-path#image-requirements).
@@ -31,7 +41,8 @@ Deploy your apps at-a-click from GitHub or Docker.
 
 ### How do I get support?
 
-Chat to the team on the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
+1. 
+2. Chat to the team on the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
 
 ## Disclaimer
 
