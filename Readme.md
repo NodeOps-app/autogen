@@ -1,6 +1,6 @@
 # Welcome 
 
-Welcome to the Deploy beta tester gang. [This repository](https://github.com/NodeOps-app/beta-deploy) supports you and this repo is yours: make changes, add issues, give feedback, but most of all build great stuff!  
+Welcome to the NodeOps Developer Cloud beta tester gang. [This repository](https://github.com/NodeOps-app/beta-deploy) supports you and this repo is yours: make changes, add issues, give feedback, but most of all build great stuff!  
 
 ## First steps
 
@@ -27,7 +27,7 @@ Welcome to the Deploy beta tester gang. [This repository](https://github.com/Nod
 
 ## FAQ
 
-### What is NodeOps Deploy?
+### What is NodeOps NodeOps Developer Cloud?
 
 Deploy your apps at-a-click from GitHub or Docker. 
 
@@ -79,6 +79,7 @@ You have 2 methods available:
 [Click for video](https://github.com/NodeOps-app/beta-deploy/issues/6)
 
 </details>
+
 2. Chat to the team on the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
 
 ## Disclaimer
