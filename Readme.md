@@ -2,7 +2,7 @@
 
 Welcome to the NodeOps Developer Cloud beta tester gang. [This repository](https://github.com/NodeOps-app/beta-deploy) supports you and this repo is yours: make changes, add issues, give feedback, but most of all build great stuff!  
 
-## First steps
+## Optional first steps
 
 1. Join the [NodeOps Discord server](https://discord.com/invite/fEmaMbkUxF) if you haven't already.
 2. Join the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
@@ -42,7 +42,7 @@ You have 2 methods available:
 
 [Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
 
-[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/6)
+[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
 
 </details>
 
@@ -59,7 +59,7 @@ You have 2 methods available:
 
 [Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
 
-[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/6)
+[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
 
 </details>
 
@@ -76,7 +76,7 @@ You have 2 methods available:
 
 [Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
 
-[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/6)
+[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
 
 </details>
 
