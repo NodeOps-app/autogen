@@ -1,3 +1,5 @@
+![Project page screenshot](/Static/Image/project-page.png)
+
 ## Left Sidebar
 
 Projects
@@ -39,19 +41,19 @@ Delete Project
 ## Right Panel: Quick Actions
 
 Deploy Project
-“Run latest version of project's code.”
+“Run latest version of project's code”
 
 View Logs
 “Troubleshoot with the build and runtime logs”
 
 View Builds
-“See a list of build attempts, including success and failure”
+“See a list of build attempts: successes and failures”
 
 View Analytics
 “Access performance metrics and usage stats for your project”
 
 Create in Sandbox
-“Spin up a temporary sandbox environment to test your project”
+“Spin up a temporary environment to test your project: no public endpoint”
 
 ## Top Right
 
