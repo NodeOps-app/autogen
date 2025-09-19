@@ -9,7 +9,7 @@ Help
 Book a call
 “Schedule a call with the support team”
 
-## Main Panel (Center)
+## Main Panel: Center
 
 Project title (boilerplate-html-site-5)
 “User assigned name for project”
@@ -25,7 +25,7 @@ Deployment Information
 Refresh button
 “Reload deployment information to update”
 
-## Right Panel (Project Actions)
+## Right Panel: Project Actions
 
 Visit Project
 “Opens the deployed project's public endpoint”
@@ -36,7 +36,7 @@ Share Project
 Delete Project
 “Permanently remove this project; irreversible”
 
-## Right Panel (Quick Actions)
+## Right Panel: Quick Actions
 
 Deploy Project
 “Run latest version of project's code.”
@@ -44,7 +44,7 @@ Deploy Project
 View Logs
 “Troubleshoot with the build and runtime logs”
 
-View Builds (1)
+View Builds
 “See a list of build attempts, including success and failure”
 
 View Analytics
