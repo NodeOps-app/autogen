@@ -27,6 +27,8 @@ Welcome to the NodeOps Developer Cloud beta tester gang. [This repository](https
 
 4. Import your code and [deploy a project](/Docs/Projects/functions.md).
 
+> Jump into the [Docs](/Docs/Readme.md) to learn more.
+
 ## FAQ
 
 ### What is NodeOps NodeOps Developer Cloud?
@@ -69,7 +71,7 @@ You have 2 methods available:
 
 ### How do I get support?
 
-You have 2 methods available:
+You have 3 methods available:
 
 1. Help > Contact Support > Complete form.
 
@@ -84,6 +86,12 @@ You have 2 methods available:
 
 2. Chat to the team on the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
 
+3. Book a call with the team from [the app](https://build0.nodeops.network/projects).
+
 ## Disclaimer
 
 This is a beta product, things may break!
+
+## What next?
+
+- Jump into the [Docs](/Docs/Readme.md)
