@@ -1,61 +1,50 @@
+# Projects: a single page to manage your deployments
+
 ![Project page screenshot](/Static/Image/project-page.png)
 
 ## Left Sidebar
 
-Projects
-“View all your projects in one place”
+###### Projects: View all your projects in one place
 
-Help
-“Access documentation, FAQs, or contact support”
+###### Help: Access documentation, FAQs, or contact support
 
-Book a call
-“Schedule a call with the support team”
+###### Book a call: Schedule a call with the support team
 
 ## Main Panel: Center
 
-Project title (boilerplate-html-site-5)
-“User assigned name for project”
+###### Project title: User assigned name for project
 
-Project ID
-"NodeOps assigned identifier for project”
+###### Project ID: NodeOps-assigned identifier for project
 
-Created Date
+###### Created Date
 
-Deployment Information
-“All deployments linked to project”
+###### Deployment Information: All deployments linked to project
 
-Refresh button
-“Reload deployment information to update”
+###### Refresh button: Reload deployment information to update
 
 ## Right Panel: Project Actions
 
-Visit Project
-“Opens the deployed project's public endpoint”
+###### Visit Project: Opens the deployed project's public endpoint
 
-Share Project
-“Copies deployed project's public endpoint”
+###### Share Project: Copies deployed project's public endpoint
 
-Delete Project
-“Permanently remove this project; irreversible”
+###### Delete Project: Permanently remove this project; irreversible
 
 ## Right Panel: Quick Actions
 
-Deploy Project
-“Run latest version of project's code”
+###### Deploy Project: Run latest version of project's code
 
-View Logs
-“Troubleshoot with the build and runtime logs”
+###### View Logs: Troubleshoot with the build and runtime logs
 
-View Builds
-“See a list of build attempts: successes and failures”
+###### iew Builds: See a list of build attempts - successes and failures
 
-View Analytics
-“Access performance metrics and usage stats for your project”
+###### View Analytics: Access performance metrics and usage stats for your project
 
-Create in Sandbox
-“Spin up a temporary environment to test your project: no public endpoint”
+###### Create in Sandbox
+
+- Spin up a temporary environment to test your project: no public endpoint
+- Vibe code with AI
 
 ## Top Right
 
-Build status label
-“Indicates project's launch status”
+###### Build status label: Indicates project's launch status
