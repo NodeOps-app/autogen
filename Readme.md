@@ -9,7 +9,8 @@ Welcome to the NodeOps Developer Cloud beta tester gang. [This repository](https
 
 ## Quickstart
 
-1. [Build0.NodeOps.Network/projects](https://build0.nodeops.network/projects)
+1. [Build0.NodeOps.Network/projects](https://autogen.nodeops.network/login
+)
 2. Sign in/sign up with email
 
 <details>
@@ -73,7 +74,7 @@ You have 2 methods available:
 
 You have 3 methods available:
 
-1. Help > Contact Support > Complete form.
+1. In app: Help > Contact Support > Complete form.
 
 <details>
   <summary>Support walkthrough</summary>
