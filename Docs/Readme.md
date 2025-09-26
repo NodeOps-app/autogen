@@ -12,4 +12,3 @@ Welcome to the **Docs** section. Use the links below to explore key areas:
 ## AI-tooling
 - [Coding assistance](./Projects/functions.md#create-in-sandbox)
 
-
