@@ -24,7 +24,7 @@ Welcome to the NodeOps Developer Cloud beta tester gang. [This repository](https
 
 3. Click + New Project 
 
-> You have the choice of integrating a [GitHub repo](/Docs/GitHub-Integration/walkthroughs.md) or importing an existing [Docker image](/Docs/Docker-Integration/docker-image.md).
+> You have the choice of integrating a [GitHub repo](/Docs/GitHub-Integration/github-support.md) or importing an existing [Docker image](/Docs/Docker-Integration/docker-support.md).
 
 4. Import your code and [deploy a project](/Docs/Projects/functions.md).
 
