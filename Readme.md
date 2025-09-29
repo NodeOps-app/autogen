@@ -1,6 +1,6 @@
 # Welcome 
 
-Welcome to the NodeOps Developer Cloud beta tester gang. [This repository](https://github.com/NodeOps-app/beta-deploy) supports you and this repo is yours: make changes, add issues, give feedback, but most of all build great stuff!  
+Welcome to the NodeOps Autogen beta tester gang. [This repository](https://github.com/NodeOps-app/beta-deploy) supports you and this repo is yours: make changes, add issues, give feedback, but most of all build great stuff!  
 
 ## Optional first steps
 
@@ -9,20 +9,20 @@ Welcome to the NodeOps Developer Cloud beta tester gang. [This repository](https
 
 ## Quickstart
 
-1. [Build0.NodeOps.Network/projects](https://autogen.nodeops.network/login
+1. [Build0.NodeOps.Network/projects](https://autogen.nodeops.network/login.
 )
-2. Sign in/sign up with email
+2. Sign in/sign up with email.
 
 <details>
   <summary>Sign up walkthrough</summary>
 
-[Click for walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
+- [Click for walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
 
-[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issue-3429991454)
+- [Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issue-3429991454)
 
 </details>
 
-3. Click + New Project 
+3. Click + New Project.
 
 > You have the choice of integrating a [GitHub repo](/Docs/GitHub-Integration/github-support.md) or importing an existing [Docker image](/Docs/Docker-Integration/docker-support.md).
 
@@ -45,9 +45,9 @@ You have 2 methods available:
 <details>
   <summary>Support walkthrough</summary>
 
-[Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
+- [Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
 
-[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
+- [Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
 
 </details>
 
@@ -62,9 +62,9 @@ You have 2 methods available:
 <details>
   <summary>Support walkthrough</summary>
 
-[Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
+- [Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
 
-[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
+- [Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
 
 </details>
 
@@ -79,9 +79,9 @@ You have 3 methods available:
 <details>
   <summary>Support walkthrough</summary>
 
-[Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
+- [Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
 
-[Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
+- [Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
 
 </details>
 

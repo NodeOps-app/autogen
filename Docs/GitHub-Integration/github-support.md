@@ -11,7 +11,9 @@ The tool integrates with GitHub to allow you to leverage existing repositories.
 
 - [Video walkthrough](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311163783).
 
-- <details>
+- Written walkthrough
+
+<details>
   <summary>Walk the steps</summary>
 
 1. Logged into the app, click on **New Project**.
