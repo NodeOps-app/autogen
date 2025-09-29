@@ -30,6 +30,22 @@
 
 ###### Delete Project: Permanently remove this project; irreversible
 
+- [Video walkthrough](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3347831450)
+
+- Written walkthrough
+
+<details>
+  <summary>Walk the steps</summary>
+
+1. Logged into the app, click on **Projects**.
+2. Select the instance you want to delete and click **View Details**.
+3. From Project Actions, click **Delete Project**.
+4. Confirm the delete.
+
+> You may need to reload for the project deletion to register in the UI.
+
+</details>
+
 ## Right Panel: Quick Actions
 
 ###### Deploy Project: Run latest version of project's code
