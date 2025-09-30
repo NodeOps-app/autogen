@@ -15,9 +15,9 @@ You may also select **Other/Unknown** and the app will attempt to Dockerize the 
 
 ## Browse the list of walkthroughs
 
-1. Single repo connection.
+### Setup GitHub integration
 
-> Connect your GitHub and provide access to a single repository.
+> Connect your GitHub and provide access to a repository.
 
 - [Video walkthrough](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311163783).
 
@@ -37,23 +37,6 @@ You may also select **Other/Unknown** and the app will attempt to Dockerize the 
 
 </details>
 
-<!-- 
-To revoke OAuth apps or GitHub Apps
-
-Go to GitHub > Your profile pic > Settings → [Integrations] Applications
-.
-
-Select the tab **Installed GitHub Apps** > NodeOps Build0 > click Configure
-
-
-You may:
-
-Suspend your installation: click Suspend
-Uninstall the app: click Uninstall
-Or recurate the repository access to add all repositories or select a new subset of repositories
-
- -->
-
 2. [Deploy GitHub project](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311555723).
 > Deploy a project from a linked respository.
 
@@ -61,10 +44,29 @@ Or recurate the repository access to add all repositories or select a new subset
 
 <!-- todo -->
 
-4. Disconnect GitHub integration
+### Amend GitHub integration
 
-<!-- todo -->
+- Written walkthrough
 
-5. Reconfigure GitHub integration
+<details>
+  <summary>Walk the steps</summary>
 
-<!-- todo -->
+1. Logged into your GitHub > Your profile pic > Settings → [Integrations] Applications.
+2. Select the tab **Installed GitHub Apps** > NodeOps Build0 > click Configure
+3. You may:
+- Suspend your installation: click **Suspend**
+- Uninstall the app: click **Uninstall**
+- Curate the repository access list
+
+</details>
+
+- Gif walkthrough
+
+<details>
+  <summary>See the steps</summary>
+
+![Uninstall app](/Static/Gifs/disconnect-autogen-app.gif)
+
+</details>
+
+
