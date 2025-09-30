@@ -2,6 +2,16 @@ The tool integrates with GitHub to allow you to leverage existing repositories.
 
 > Please ensure you respect the licensing of third parties.
 
+## Supported frameworks
+
+- Go
+- Next.js
+- Python
+- SvelteKit
+- Vanilla JS/HTML/CSS
+- Vite
+
+You may also select **Other/Unknown** and the app will attempt to Dockerize the repository for you.
 
 ## Browse the list of walkthroughs
 
@@ -46,3 +56,15 @@ Or recurate the repository access to add all repositories or select a new subset
 
 2. [Deploy GitHub project](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311555723).
 > Deploy a project from a linked respository.
+
+3. Work with AI in sandbox
+
+<!-- todo -->
+
+4. Disconnect GitHub integration
+
+<!-- todo -->
+
+5. Reconfigure GitHub integration
+
+<!-- todo -->
