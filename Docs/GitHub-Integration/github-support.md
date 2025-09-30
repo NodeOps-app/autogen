@@ -10,7 +10,7 @@ The tool integrates with GitHub to allow you to leverage existing repositories.
 - SvelteKit
 - Vite
 
-You may also select **Other/Unknown** as long as you provide the Dockerfile in the repository for you.
+You may also select **Other/Unknown** as long as you provide the Dockerfile in the repository.
 
 ## Browse the list of walkthroughs
 
