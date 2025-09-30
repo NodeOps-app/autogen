@@ -11,7 +11,7 @@ topic: Docker image import
 
 <!-- 
 Testing
-image name: ghost-blog 
+image name: jbthechamp/ghost-blog 
   -p 8080:2368 \
   ghost:latest
 👉 uses SQLite by default (so no external DB needed).

@@ -12,6 +12,8 @@ Welcome to the NodeOps Autogen beta tester gang. [This repository](https://githu
 1. [Autogen.NodeOps.Network](https://autogen.nodeops.network/login)
 2. Sign in/sign up with email.
 
+![](./Gifs/autogen-all-repos-connect.gif)
+
 <details>
   <summary>Sign up walkthrough</summary>
 

@@ -8,10 +8,9 @@ The tool integrates with GitHub to allow you to leverage existing repositories.
 - Next.js
 - Python
 - SvelteKit
-- Vanilla JS/HTML/CSS
 - Vite
 
-You may also select **Other/Unknown** and the app will attempt to Dockerize the repository for you.
+You may also select **Other/Unknown** as long as you provide the Dockerfile in the repository for you.
 
 ## Browse the list of walkthroughs
 
