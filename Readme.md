@@ -25,7 +25,10 @@ Welcome to the NodeOps Autogen beta tester gang. [This repository](https://githu
 
 3. Click + New Project.
 
-> You have the choice of integrating a [GitHub repo](/Docs/GitHub-Integration/github-support.md) or importing an existing [Docker image](/Docs/Docker-Integration/docker-support.md).
+> You have the choice of:
+- Integrating a [GitHub repo](/Docs/GitHub-Integration/github-support.md)
+- Importing an existing [Docker image](/Docs/Docker-Integration/docker-support.md)
+- Working with an existing [Template](/Docs/Templates/template-support.md)
 
 4. Import your code and [deploy a project](/Docs/Projects/functions.md).
 
