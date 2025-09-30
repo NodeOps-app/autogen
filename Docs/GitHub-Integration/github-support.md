@@ -64,7 +64,7 @@ You may also select **Other/Unknown** as long as you provide the Dockerfile in t
 <details>
   <summary>See the steps</summary>
 
-![Uninstall app](/Static/Gifs/disconnect-autogen-app.gif)
+![Uninstall app](./Static/Gifs/disconnect-autogen-app.gif)
 
 </details>
 
