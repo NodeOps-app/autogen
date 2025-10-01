@@ -2,7 +2,6 @@
 topic: Docker image import
 ---
 
-
 ## Image requirements
 
 - Public
@@ -11,12 +10,27 @@ topic: Docker image import
 
 <!-- 
 Testing
-image name: jbthechamp/ghost-blog 
-  -p 8080:2368 \
-  ghost:latest
-👉 uses SQLite by default (so no external DB needed).
+image name: ghost:5-alpine
 
-Admin panel normally available at http://localhost:8080/ghost, but endpoint should be provided -->
+  -p 2368
+
+Need to set environment variables to ensure that it uses SQLite by default (so no external DB needed).
+
+In the environment variables section for your Docker image deployment, enter the following key-value pairs exactly:
+
+NODE_ENV=development
+
+database__client=sqlite3
+
+database__connection__filename=/var/lib/ghost/content/data/ghost.db
+
+database__useNullAsDefault=true
+
+-->
+
+## Deploy a Docker image
+
+![nginx example](../../Static/Gifs/docker-boilerplate.gif)
 
 ## Deploy a Docker image
 
