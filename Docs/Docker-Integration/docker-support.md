@@ -32,6 +32,8 @@ database__useNullAsDefault=true
 
 ![nginx example](../../Static/Gifs/docker-boilerplate.gif)
 
+## Deploy a Docker image
+
 <details>
   <summary>Walk the steps</summary>
 
