@@ -44,5 +44,9 @@ database__useNullAsDefault=true
 	- Port
 	- (Optional) project name
 4. Click on **Deploy Project**.
+5. Click **Visit Project** to access the app on its public endpoint.
+
+> Lightweight images will be available immediately.
+> View the logs to verify larger deployments before hitting that unique endpoint.
 
 </details>
