@@ -10,20 +10,16 @@ The tool integrates with GitHub to allow you to leverage existing repositories.
 - SvelteKit
 - Vite
 
-You may also select **Other/Unknown** as long as you provide the Dockerfile in the repository.
+You may also select **Other/Unknown** as long as you provide the **Dockerfile** in the repository.
 
 ## Browse the list of walkthroughs
 
 ### Set up GitHub integration
 
-> Connect your GitHub and provide access to a repository.
-
-- [Video walkthrough](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311163783).
-
-- Written walkthrough
+You can connect your GitHub and provide access to all or selected repositories.
 
 <details>
-  <summary>Walk the steps</summary>
+  <summary>Show me</summary>
 
 1. Logged into the app, click on **New Project**.
 2. Click on **Import Github Repository**.
@@ -34,10 +30,26 @@ You may also select **Other/Unknown** as long as you provide the Dockerfile in t
 
 > You may need to re-login if this issue was not fixed yet!
 
+![](../../Static/Gifs/autogen-all-repos-connect.gif)
+
 </details>
 
-2. [Deploy GitHub project](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311555723).
-> Deploy a project from a linked respository.
+### Deploy a GitHub-based project
+
+You may deploy a project from a linked respository.
+
+<details>
+  <summary>Show me</summary>
+
+1. Logged into the app, click on **New Project**.
+2. Choose the relevant repo.
+3. Click on **Install**.
+
+> You may need to re-login if this issue was not fixed yet!
+
+![](../../Static/Gifs/autogen-all-repos-connect.gif)
+
+</details>
 
 3. Work with AI in sandbox
 
@@ -45,10 +57,10 @@ You may also select **Other/Unknown** as long as you provide the Dockerfile in t
 
 ### Amend GitHub integration
 
-- Written walkthrough
+From your GitHub account, you may revoke the app's access to your account or modify which repositories it can access.
 
 <details>
-  <summary>Walk the steps</summary>
+  <summary>Show me</summary>
 
 1. Logged into your GitHub > Your profile pic > Settings → [Integrations] Applications.
 2. Select the tab **Installed GitHub Apps** > NodeOps Build0 > click Configure
@@ -56,13 +68,6 @@ You may also select **Other/Unknown** as long as you provide the Dockerfile in t
 - Suspend your installation: click **Suspend**
 - Uninstall the app: click **Uninstall**
 - Curate the repository access list
-
-</details>
-
-- Gif walkthrough
-
-<details>
-  <summary>See the steps</summary>
 
 ![Uninstall app](./Static/Gifs/disconnect-autogen-app.gif)
 
