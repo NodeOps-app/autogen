@@ -2,7 +2,7 @@
 
 ## Step 1. Audit and prepare your Vercel project
 
-1. Record all:
+1. Record any that apply:
 
 - Environment variables
 - Build commands
