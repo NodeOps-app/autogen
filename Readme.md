@@ -1,6 +1,6 @@
 # Welcome 
 
-Welcome to the NodeOps Autogen beta tester gang. [This repository](https://github.com/NodeOps-app/beta-deploy) supports you and this repo is yours: make changes, add issues, give feedback, but most of all build great stuff!  
+Welcome to the NodeOps Autogen beta tester gang. [This repository](https://github.com/NodeOps-app/autogen) supports you and this repo is yours: make changes, add issues, give feedback, but most of all build great stuff!  
 
 ## Optional first steps
 

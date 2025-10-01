@@ -18,7 +18,7 @@ image name: jbthechamp/ghost-blog
 
 Admin panel normally available at http://localhost:8080/ghost, but endpoint should be provided -->
 
-- Deploy a Docker image
+## Deploy a Docker image
 
 <details>
   <summary>Walk the steps</summary>
