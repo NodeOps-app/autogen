@@ -17,17 +17,22 @@ per your Vercel dashboard.
 
 ## Step 2. Login to AutoGen and connect the resources
 
-1. Create an account using email.
+1. Create an account using email/Gmail sign in.
 
-<!-- link -->
+<details>
+  <summary>Sign up walkthrough</summary>
 
-2. Connect your GitHub repository or link the Dockerfile through the platform’s integration steps.
+- [Click for walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
 
-<!-- link -->
+- [Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issue-3429991454)
+
+</details>
+
+2. [Connect your GitHub repository/s](../GitHub-Integration/github-support.md#set-up-github-integration) or [link the Dockerfile](../Docker-Integration/docker-support.md#deploy-a-docker-image) through the platform’s integration steps. 
 
 3. Verify build settings (such as commands, environment variables).
 
-<!-- feature request eg GitHub Secrets -->
+<!-- feature request secret management eg GitHub Secrets -->
 
 ## Step 3. Configure and deploy a test project
 
@@ -37,13 +42,19 @@ Deploy a test instance and verify functionality, performance, and build logs.
 
 1. Gradually migrate non-critical projects for testing.
 
-2. Update DNS to point to the permanent endpoint provided in the project.
-
-<!-- link -->
+2. Update DNS to point to the [permanent endpoint](../Projects/functions.md#share-project-copies-deployed-projects-public-endpoint
+) provided in the project.
 
 > Coming soon, support for custom domains.
 
 3. Monitor for regressions and reach out to support if needed.
 
-<!-- link -->
+<details>
+  <summary>Support walkthrough</summary>
+
+- [Click for walkthrough](https://app.guidemaker.com/guide/0b3580de-36a4-4e13-9b3f-b78533d20708)
+
+- [Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issuecomment-3311172755)
+
+</details>
 

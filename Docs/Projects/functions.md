@@ -52,7 +52,7 @@
 
 ###### View Logs: Troubleshoot with the build and runtime logs
 
-###### iew Builds: See a list of build attempts - successes and failures
+###### View Builds: See a list of build attempts - successes and failures
 
 ###### View Analytics: Access performance metrics and usage stats for your project
 

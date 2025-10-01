@@ -14,7 +14,7 @@ You may also select **Other/Unknown** as long as you provide the Dockerfile in t
 
 ## Browse the list of walkthroughs
 
-### Setup GitHub integration
+### Set up GitHub integration
 
 > Connect your GitHub and provide access to a repository.
 
