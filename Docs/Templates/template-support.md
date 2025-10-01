@@ -3,8 +3,7 @@ The tool integrates with Templates to allow you to leverage existing app configu
 
 ## Deploy a templatized app
 
-![nginx example](../../Static/Gifs/launch-template.gif)
-
+![calculator example](../../Static/Gifs/launch-template.gif)
 
 <details>
   <summary>Walk the steps</summary>

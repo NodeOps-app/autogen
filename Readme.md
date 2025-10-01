@@ -17,9 +17,9 @@ Welcome to the NodeOps Autogen beta tester gang. [This repository](https://githu
 <details>
   <summary>Sign up walkthrough</summary>
 
-- [Click for walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
+![sign up](./Static/Gifs/signup.gif)
 
-- [Click for video](https://github.com/NodeOps-app/beta-deploy/issues/4#issue-3429991454)
+- [Click for walkthrough](https://app.guidemaker.com/guide/06ae9806-c6cb-46ad-b2f9-d3d632fa1585)
 
 </details>
 
