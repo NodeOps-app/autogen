@@ -7,13 +7,13 @@
 - Environment variables
 - Build commands
 - Run commands
-- Custom (public) Dockefile
+- Custom (public) Dockerfile
 
 per your Vercel dashboard.
 
 > For example, note your framework’s build steps (`npm run build` or similar).
 
- <!-- Feature request output directory (dist, out, etc.). Notion -->
+ <!-- Feature request output directory (dist, out, etc.) -->
 
 ## Step 2. Login to AutoGen and connect the resources
 
