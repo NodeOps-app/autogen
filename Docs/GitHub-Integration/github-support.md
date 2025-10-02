@@ -8,7 +8,7 @@ This page covers:
 
 - [Supported frameworks](#supported-frameworks) 
 - [Connecting to GitHub](#set-up-github-integration)
-- [Amending which repositories are connetred](#amend-github-integration)
+- [Amending which repositories are connected](#amend-github-integration)
 
 ## Supported frameworks
 
