@@ -6,9 +6,9 @@ Follow along with this tutorial to get started with a Next.js app and get coding
 
 You will:
 
-- Create a boilerplate app in a GitHub repository
+- Create/fork a boilerplate app in GitHub
 - Deploy that app with AutoGen
-- Launch a sandboxed instance of the app which provides an AI assistant
+- Launch a sandboxed instance of the app: getting access to an AI coding assistant
 
 ![ai agent guide](../../Static/Gifs/guide-ai-agent.gif)
 
@@ -19,59 +19,66 @@ You will:
 
 ## Step 1: Create a Next.js app
 
-In GitHub, create a 3 page app:
+Either fork this repository: [github.com/NodeOps-app/boilerplate-next.js](https://github.com/NodeOps-app/boilerplate-next.js).
 
-```your-nextjs-project/
-├── Dockerfile   
-├── package.json
-├── pages/
-│   └── index.js
-```
+Or recreate the 3-page repo in your own GitHub.
 
 <details>
-  <summary>pages/index.js contents</summary>
+  <summary>3-page repo details</summary>
 
-```
-export default function Home() {
-  return <h1>Hello World</h1>
-}
-```
+  ```your-nextjs-project/
+  ├── Dockerfile   
+  ├── package.json
+  ├── pages/
+  │   └── index.js
+  ```
 
-</details>
+  <details>
+    <summary>pages/index.js contents</summary>
 
-<details>
-  <summary>package.json contents</summary>
-
-```
-{
-  "name": "minimal-next-app",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+  ```
+  export default function Home() {
+    return <h1>Hello World</h1>
   }
-}
-```
+  ```
 
-</details>
+  </details>
 
-<details>
-  <summary>Dockerfile</summary>
+  <details>
+    <summary>package.json contents</summary>
 
-```FROM node:18-alpine
-WORKDIR /app
-COPY package.json package-lock.json* ./
-RUN npm install
-COPY . .
-RUN npm run build
-EXPOSE 3000
-CMD ["npm", "start"]
-```
+  ```
+  {
+    "name": "minimal-next-app",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "next": "latest",
+      "react": "latest",
+      "react-dom": "latest"
+    }
+  }
+  ```
+
+  </details>
+
+  <details>
+    <summary>Dockerfile</summary>
+
+  ```FROM node:18-alpine
+  WORKDIR /app
+  COPY package.json package-lock.json* ./
+  RUN npm install
+  COPY . .
+  RUN npm run build
+  EXPOSE 3000
+  CMD ["npm", "start"]
+  ```
+
+  </details>
 
 </details>
 
@@ -105,10 +112,10 @@ click **Deploy**.
 
 > A vanilla VS code instance will open.
 
-3. Click the final icon on the LHS menu bar, a kangaroo.
+3. Click the Kangaroo, the final icon on the LHS menu bar.
 
 > You are now ready to build out your app with the AI assistant.
 
 ## What next?
 
-- Learn how to [configure Git](./sandbox-support.md#configure-git) in this VS code instance to push code changes back to GitHub
+- Learn how to [configure Git](./sandbox-support.md#configure-git) in your VS code instance to push code changes back to GitHub
