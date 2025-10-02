@@ -33,14 +33,14 @@ AutoGen assists you to code your projects with an AI assistant embedded in the s
 <details>
   <summary>Show me</summary>
 
-![](../../Static/Gifs/assist-ai-agent.gif)
-
-### Prerequisites
+  ### Prerequisites
 
 - Connected repository
 > Follow the [GitHub Get Started](../GitHub-Integration/github-support.md).
 - Deployable app
 > Follow the [AI agent guide](./ai-agent-guide.md) if you need a boilerplate app.
+
+![ai agent](../../Static/Gifs/ai-agent.gif)
 
 1. Click **Create Sandbox**.
 > You may need to reload the page before the next step.

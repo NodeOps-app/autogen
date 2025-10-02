@@ -7,8 +7,8 @@ The tool integrates with GitHub to allow you to leverage existing repositories.
 This page covers: 
 
 - [Supported frameworks](#supported-frameworks) 
-- [Connecting to GitHub](#set-up-github-integrtation)
-- [Amending which repositories are connectred](#amend-github-integrtation)
+- [Connecting to GitHub](#set-up-github-integration)
+- [Amending which repositories are connected](#amend-github-integration)
 
 ## Supported frameworks
 
