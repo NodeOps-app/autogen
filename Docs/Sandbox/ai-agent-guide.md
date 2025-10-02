@@ -109,3 +109,6 @@ click **Deploy**.
 
 > You are now ready to build out your app with the AI assistant.
 
+## What next?
+
+- Learn how to [configure Git](./sandbox-support.md#configure-git) in this VS code instance to push code changes back to GitHub
