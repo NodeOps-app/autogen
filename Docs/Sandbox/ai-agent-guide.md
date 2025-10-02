@@ -26,15 +26,18 @@ In GitHub, create a 3 page app:
 <details>
   <summary>pages/index.js contents</summary>
 
+```
 export default function Home() {
   return <h1>Hello World</h1>
 }
+```
 
 </details>
 
 <details>
   <summary>package.json contents</summary>
 
+```
 {
   "name": "minimal-next-app",
   "scripts": {
@@ -48,13 +51,14 @@ export default function Home() {
     "react-dom": "latest"
   }
 }
+```
 
 </details>
 
 <details>
   <summary>Dockerfile</summary>
 
-FROM node:18-alpine
+```FROM node:18-alpine
 WORKDIR /app
 COPY package.json package-lock.json* ./
 RUN npm install
@@ -62,6 +66,7 @@ COPY . .
 RUN npm run build
 EXPOSE 3000
 CMD ["npm", "start"]
+```
 
 </details>
 

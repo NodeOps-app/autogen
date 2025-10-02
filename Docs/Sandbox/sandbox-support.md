@@ -2,14 +2,15 @@
 
 In AutoGen, you can create a sandbox environment to work with your codebase.
 
-This page provides support for 
+This page covers: 
 
 - [Getting started](#get-started-with-the-sandbox) 
+- [Using the AI](#get-started-with-the-ai-coding-agent)
 - [Configuring Git](#configure-git)
 
 ## Prerequisites
 
-- [GitHub repository linked](../GitHub-Integration/github-support.md) and in **Running** status.
+- [GitHub repository linked](../GitHub-Integration/github-support.md#set-up-github-integrtation) and in **Running** status.
 
 ## Get started with the sandbox
 

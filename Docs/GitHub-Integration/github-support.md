@@ -1,6 +1,14 @@
+# GitHub integration
+
 The tool integrates with GitHub to allow you to leverage existing repositories.
 
 > Please ensure you respect the licensing of third parties.
+
+This page covers: 
+
+- [Supported frameworks](#supported-frameworks) 
+- [Connecting to GitHub](#set-up-github-integrtation)
+- [Amending which repositories are connectred](#amend-github-integrtation)
 
 ## Supported frameworks
 
