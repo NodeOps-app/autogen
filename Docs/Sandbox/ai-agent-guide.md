@@ -12,6 +12,11 @@ You will:
 
 ![ai agent guide](../../Static/Gifs/guide-ai-agent.gif)
 
+## Prerequisites
+
+- GitHub account
+- [AutoGen](https://autogen.nodeops.network/) account
+
 ## Step 1: Create a Next.js app
 
 In GitHub, create a 3 page app:
@@ -72,20 +77,25 @@ CMD ["npm", "start"]
 
 ## Step 2: Deploy your Next.js app
 
-1. Logged into AutoGen, browse for the GitHub repo that contains your app.
+1. Logged into [AutoGen](https://autogen.nodeops.network/), browse to the GitHub repo that contains your app.
 > If required, follow the [GitHub Get Started](../GitHub-Integration/github-support.md#set-up-github-integration), then return here.
+<br></br>
 > If required, follow the [GitHub reconfiguration guide](../GitHub-Integration/github-support.md#amend-github-integration) to alter which repositories are available from AutoGen, then return here.
+
 2. Configure the deployment, this guide uses:
 - Branch: main
 - Framework: Next.js
 - Port: 3000
 - Name: {assign unique name}
-- My project has a Dockerfile: toggle on
+- My project has a Dockerfile: **toggle on**
+
 click **Deploy**.
 
 > You may verify the build by clicking **Visit Project** to see the **Hello World** page.
 
 ## Step 3: Launch sandbox and AI agent
+
+> If you left the flow, return by navigating to **Projects** > Select the relevant Project > Click **View Details**. 
 
 1. Click **Create Sandbox**.
 
