@@ -33,7 +33,7 @@ AutoGen assists you to code your projects with an AI assistant embedded in the s
 <details>
   <summary>Show me</summary>
 
-![](../../Static/Gifs/assist-ai-agent.gif)
+![](../../Static/Gifs/ai-agent.gif)
 
 ### Prerequisites
 
