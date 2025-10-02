@@ -66,7 +66,7 @@ Or recreate the 3-page repo in your own GitHub.
   </details>
 
   <details>
-    <summary>Dockerfile</summary>
+    <summary>Dockerfile contents</summary>
 
   ```FROM node:18-alpine
   WORKDIR /app
@@ -90,7 +90,7 @@ Or recreate the 3-page repo in your own GitHub.
 <br></br>
 > If required, follow the [GitHub reconfiguration guide](../GitHub-Integration/github-support.md#amend-github-integration) to alter which repositories are available from AutoGen, then return here.
 
-2. Configure the deployment, this guide uses:
+3. Configure the deployment, this guide uses:
 
 - Branch: main
 - Framework: Next.js
