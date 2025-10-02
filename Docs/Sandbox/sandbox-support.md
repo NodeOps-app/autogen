@@ -15,7 +15,7 @@ This page provides support for
 
 ![](../../Static/Gifs/open-ai-sandbox.gif)
 
-1. Follow the [GitHub guide](../GitHub-Integration/github-support.md) to connect at least one repository.
+1. Follow the [GitHub Get Started](../GitHub-Integration/github-support.md) to connect at least one repository.
 
 2. Once the container for this repository is successfully running, click **Create in Sandbox**.
 
@@ -24,6 +24,33 @@ This page provides support for
 3. Click **Edit in Sandbox**. 
 
 > A vanilla VS code instance will open.
+
+## Get started with the AI coding agent
+
+AutoGen assists you to code your projects with an AI assistant embedded in the sandbox.
+
+<details>
+  <summary>Show me</summary>
+
+![](../../Static/Gifs/assist-ai-agent.gif)
+
+### Prerequisites
+
+- Connected repository
+> Follow the [GitHub Get Started](../GitHub-Integration/github-support.md).
+- Deployable app
+> Follow the [AI agent guide](./ai-agent-guide.md) if you need a boilerplate app.
+
+1. Click **Create Sandbox**.
+> You may need to reload the page before the next step.
+
+2. Click **Edit in Sandbox**. 
+> A vanilla VS code instance will open.
+
+3. Click the final icon on the LHS menu bar, a kangaroo.
+> You are now ready to build out your app with the AI assistant.
+
+</details>
 
 ## Configure the VS code instance
 
