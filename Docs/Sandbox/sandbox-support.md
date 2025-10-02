@@ -9,13 +9,13 @@ This page provides support for
 
 ## Prerequisites
 
-- [GitHub repository linked](./GitHub-Integration/github-support.md) and in **Running** status.
+- [GitHub repository linked](../../GitHub-Integration/github-support.md) and in **Running** status.
 
 ## Get started with the sandbox
 
 ![](../../Static/Gifs/open-ai-sandbox.gif)
 
-1. Follow the [GitHub guide](./GitHub-Integration/github-support.md) to connect at least one repository.
+1. Follow the [GitHub guide](../../GitHub-Integration/github-support.md) to connect at least one repository.
 
 2. Once the container for this repository is successfully running, click **Create in Sandbox**.
 
