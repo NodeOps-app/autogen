@@ -19,7 +19,7 @@ Welcome to the **Docs** section. Use the links below to explore key areas:
 
 When a GitHub repository is successfully integrated, you may then work with the codebase with our AI assistant.
 
-- [Coding assistance](./Projects/functions.md#create-in-sandbox)
+- [Coding assistance](./Sandbox/sandbox-support.md)
 
 ## Migrations
 
