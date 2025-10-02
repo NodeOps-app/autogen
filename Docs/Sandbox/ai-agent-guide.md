@@ -2,7 +2,7 @@
 
 > Currently, AutoGen does not allow you to start with an empty repository. It requires a deployable app with a provided Dockerfile (or it assigns an LLM to create one).
 
-Follow along with this tutorial to get started with a boilerplate Next.js app and get coding assistant from the AI agent.
+Follow along with this tutorial to get started with a boilerplate Next.js app and get coding assistance from the AI agent.
 
 You will:
 
