@@ -1,8 +1,8 @@
 # Guide to use the AI agent
 
-> Currently, AutoGen does not allow you to start with an empty repository. It anticipates deploying an app with a provided Dockerfile or by creating one.
+> Currently, AutoGen does not allow you to start with an empty repository. It requires a deployable app with a provided Dockerfile (or it assigns an LLM to create one).
 
-Follow along with this tutorial to get started with a Next.js app and get coding assistant from the AI agent.
+Follow along with this tutorial to get started with a boilerplate Next.js app and get coding assistant from the AI agent.
 
 You will:
 
@@ -84,12 +84,14 @@ Or recreate the 3-page repo in your own GitHub.
 
 ## Step 2: Deploy your Next.js app
 
-1. Logged into [AutoGen](https://autogen.nodeops.network/), browse to the GitHub repo that contains your app.
+1. Logged into [AutoGen](https://autogen.nodeops.network/), click **+ New Project**.
+2. Click **Browse Repositories** and browse to the GitHub repo that contains your app.
 > If required, follow the [GitHub Get Started](../GitHub-Integration/github-support.md#set-up-github-integration), then return here.
 <br></br>
 > If required, follow the [GitHub reconfiguration guide](../GitHub-Integration/github-support.md#amend-github-integration) to alter which repositories are available from AutoGen, then return here.
 
 2. Configure the deployment, this guide uses:
+
 - Branch: main
 - Framework: Next.js
 - Port: 3000
@@ -119,3 +121,4 @@ click **Deploy**.
 ## What next?
 
 - Learn how to [configure Git](./sandbox-support.md#configure-git) in your VS code instance to push code changes back to GitHub
+- Consider creating your own boilerplate app or leveraging existing repos for other frameworks as a starting point to work with the AI assistant
