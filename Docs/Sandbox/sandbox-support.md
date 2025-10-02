@@ -31,3 +31,22 @@ This page provides support for
 
 If you want to commit code changes back to the original repository, you must configure git to identify your profile.
 
+<details>
+  <summary>Show me</summary>
+
+1. From a sandbox instance, work your code until you have changes to commit.
+2. Open a terminal and run `git config user.name` if this returns null, you did not yet setup a git user.
+3. Get your GitHub username and the email associated with the GitHub profile. Then run the following commands in your terminal, substituting your actual username and emaill:
+`git config --global user.name` 
+`git config —global user.email`
+
+> The global flag is optional.
+
+4. Using VS Code's git plugin, click **Commit** and **Sync Changes**.
+5. Follow the prompts to connect this VS Code instance with your repository.
+
+> The changes will be synced with the source repository. You can verify this on GitHub.
+
+![](../../Static/Gifs/vs-code-git-config.gif)
+
+</details>
