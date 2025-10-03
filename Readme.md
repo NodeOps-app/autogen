@@ -91,7 +91,7 @@ You have 3 methods available:
 
 2. Chat to the team on the private beta tester group: [discord.gg/q5ub88t9pA](https://discord.gg/q5ub88t9pA).
 
-3. Book a call with the team from [the app](https://build0.nodeops.network/projects).
+3. Book a call with the team from [the app](https://autogen.nodeops.network/login).
 
 ## Disclaimer
 
