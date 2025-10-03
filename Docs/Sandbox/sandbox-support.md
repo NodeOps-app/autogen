@@ -10,7 +10,7 @@ This page covers:
 
 ## Prerequisites
 
-- [GitHub repository linked](../GitHub-Integration/github-support.md#set-up-github-integrtation) and in **Running** status.
+- [GitHub repository linked](../GitHub-Integration/github-support.md#set-up-github-integrtation), [deployed](../GitHub-Integration/github-support.md#deploy-a-github-based-project), and in **Running** status.
 
 ## Get started with the sandbox
 
