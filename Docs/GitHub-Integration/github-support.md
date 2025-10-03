@@ -59,7 +59,7 @@ You may deploy a project from a linked respository.
 
 </details>
 
-3. Work with AI in sandbox
+> Once you have deployed a project, you may [work with an AI assistant on that code in the sandbox](../Sandbox/sandbox-support.md#get-started-with-the-ai-coding-agent).
 
 <!-- todo -->
 
