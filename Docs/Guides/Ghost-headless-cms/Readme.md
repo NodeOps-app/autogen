@@ -67,7 +67,7 @@ Next, we will leverage a basic Next.js app to consume the backend data via API a
 
 1. Fork this GitHub to your own profile {todo add url to boilerplate}
 
-> Alternatively, recreate the app based on the [data here](#next-js-app)
+> Alternatively, recreate the app based on the [data here](#nextjs-app)
 
 2. Logged into the [AutoGen app](https://autogen.nodeops.network/), click **+ New Project**. 
 
