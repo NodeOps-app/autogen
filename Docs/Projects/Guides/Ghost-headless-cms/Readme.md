@@ -2,8 +2,7 @@
 
 # Ghost Headless CMS
 
-Use this guide to walkthrough setting up a backend/frontend for the popular blogging platform, Ghost. 
-<!-- add link to Ghost site or Ghost docs --> 
+Use this guide to walkthrough setting up a backend/frontend for the popular blogging platform, [Ghost](https://ghost.org/). 
 
 ## Prerequisites
 
@@ -13,11 +12,13 @@ Use this guide to walkthrough setting up a backend/frontend for the popular blog
 
 ## Overview
 
-This guide demonstrates deploying Ghost as a headless CMS with a separate Next.js frontend using the NodeOps platform. This creates a scalable BE/FE architecture where the backend serves content via API and the frontend consumes it.
+This guide demonstrates deploying Ghost as a headless CMS with a separate Next.js frontend using the NodeOps platform. This creates a scalable BE/FE architecture where the backend serves content via API which the frontend consumes.
+
+> There is no need to run Ghost with separate BE/FE. [Follow the guide to understand how to run Ghost as a single container](../../../Docker-Integration/Guides/Readme.md), or remain here for a demo of a BE/FE app on AutoGen.
 
 ## ⚠️ Security notice
 
-**This guide uses hardcoded API keys for simplicity. Never do this in  production deployments. See the [environment variables extension](./environment-variables.md) guide to understand how to properly handle API keys.**
+This guide uses hardcoded API keys for simplicity. Never do this in production deployments. See the [environment variables extension](./environment-variables.md) guide to understand how to properly handle API keys.
 
 ## Architecture
 
@@ -37,16 +38,17 @@ The first step is to deploy your Ghost CMS backend. This will host the blogs and
 
 1. Logged into the [AutoGen app](https://autogen.nodeops.network/), click **+ New Project**. 
 
-2. Select Docker and complete the following:
+2. Click on **Deploy Docker Container**.
+3. Populate:
 
-**Image**: `ghost:5-alpine`  
-**Port**: `2368`
+    **Image**: `ghost:5-alpine`  
+    **Port**: `2368`
 
-**Environment variables**:
-  - NODE_ENV=production
-  - database__client=sqlite3
-  - database__connection__filename=/var/lib/ghost/content/data/ghost.db
-  - database__useNullAsDefault=true
+    **Environment variables**:
+      - NODE_ENV=production
+      - database_client=sqlite3
+      - database__onnection__filename=/var/lib/ghost/content/data/ghost.db
+      - database_useNullAsDefault=true
 
 ## 1.2 Collect API keys and URLs from Ghost
 
@@ -128,14 +130,16 @@ const GHOST_API_KEY = 'your-content-api-key-here';
 - **Flexibility**: Use any frontend technology
 - **Performance**: Frontend optimized for delivery
 - **Development**: Teams can work separately
-- **Deployment**: Different platforms for BE/FE
+- **Deployment**: Different platforms for BE/FE and different frontends can be developed for different use cases such as mobile vs. desktop.
 
 ## Next Steps
 
 - **Production Security**: [Environment Variables Extension](./environment-variables.md)
 
-
 ## Next.js App
+
+<details>
+  <summary>Show me the Next.js files</summary>
 
 <details>
   <summary>Next.js project structure</summary>
@@ -400,5 +404,7 @@ out/
 .vscode/
 .idea/
 ```
+
+</details>
 
 </details>
