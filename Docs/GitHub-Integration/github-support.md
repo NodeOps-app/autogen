@@ -20,6 +20,10 @@ This page covers:
 
 You may also select **Other/Unknown** as long as you provide the **Dockerfile** in the repository.
 
+<!-- ## Gotchas
+
+- Do not connect one GitHub repo to multiple accounts -->
+
 ## Browse the list of walkthroughs
 
 ### Set up GitHub integration
