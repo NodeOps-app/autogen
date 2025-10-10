@@ -11,16 +11,33 @@ This guide demonstrates how to pivot from using a Docker run command or Docker c
 
 ## Overview
 
-This guide will walkthrough adapting the Docker commands required to run the public image of a popular blogging platform, [Ghost](https://ghost.org/). 
+This guide will walkthrough the config commands required to run the public image of a popular blogging platform, [Ghost](https://ghost.org/). 
 
 This image may be started with a backend database or, by applying the correct configuration with a SQLite setting which allows everything to run from one container. The following configurations specify a sqlite3 database to take advantage of this feature.
 
-Review your favorite method:
+## Deploy configured Ghost with AutoGen
+
+1. Logged into the [AutoGen app](https://autogen.nodeops.network/), click **+ New Project**.
+2. Click on **Deploy Docker Container**.
+3. Configure the deployment with the following 7 items:
+  - Image path: ghost:5-alpine
+  - Port: 2368
+  - (Optional) project name
+  Environment Variables:
+      - NODE_ENV = production
+      - database__client = sqlite3
+      - database__connection__filename = /var/lib/ghost/content/data/ghost.db
+      - database__useNullAsDefault = true
+4. Click on **Deploy Project**.
+5. Click **Visit Project** to access the app on its public endpoint.
+
+
+## What next?
+
+If you are familiar with running Docker containers, consider reviewing your favorite method to compare how you may have chosen to run the same blogging platform with the same configuration using these methods:
 
 - [Docker compose](#docker-compose)
-- Docker run
-
-and then follow the demonstration on how to create the equivalent on AugoGen.
+- [Docker run](#docker-run)
 
 ### Docker compose
 
@@ -114,3 +131,6 @@ This allows the configuration file to do some of the heavy lifting. In this conf
   </details>
 
 </details>
+
+
+
