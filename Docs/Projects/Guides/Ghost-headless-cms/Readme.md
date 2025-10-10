@@ -1,3 +1,5 @@
+🚧 This page is WIP 🚧
+
 # Ghost Headless CMS
 
 Use this guide to walkthrough setting up a backend/frontend for the popular blogging platform, Ghost. 

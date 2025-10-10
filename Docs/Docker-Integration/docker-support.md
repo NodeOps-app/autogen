@@ -8,7 +8,6 @@ topic: Docker image import
 - Arch --platform linux/amd64 
 > This constraint ensures imported Docker images are built for the host machine architecture.
 
-
 ## Prerequisites
 
 - Docker image fitting the requirements
@@ -16,7 +15,9 @@ topic: Docker image import
 
 ## Deploy a Docker image
 
-<!-- ![nginx example](../../Static/Gifs/docker-boilerplate.gif) app has changed, this is now out of date, missing the environment vars -->
+![nginx example](../../Static/Gifs/docker-boilerplate.gif)
+
+<!--  app has changed, this is now out of date, missing the environment vars -->
 
 1. Logged into the [AutoGen app](https://autogen.nodeops.network/), click **+ New Project**. 
 2. Click on **Deploy Docker Container**.

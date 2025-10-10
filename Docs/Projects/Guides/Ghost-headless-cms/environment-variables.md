@@ -1,3 +1,6 @@
+🚧 This page is WIP 🚧
+
+
 # Environment variables guide extension
 
 This extension shows how to properly secure your Ghost headless CMS by using environment variables instead of hardcoded API keys. This is the **production-ready approach**.
